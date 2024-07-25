@@ -1,0 +1,6 @@
+withCredentials(bindings: [certificate(aliasVariable: '', \
+                                       credentialsId: 'jenkins-certificate-for-xyz', \
+                                       keystoreVariable: 'CERTIFICATE_FOR_XYZ', \
+                                       passwordVariable: 'XYZ-CERTIFICATE-PASSWORD')]) {
+  // some block
+}
