@@ -1,0 +1,2 @@
+git url: 'git://example.com/amazing-project.git', branch: 'master'
+git([url: 'git://example.com/amazing-project.git', branch: 'master'])
